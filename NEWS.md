@@ -1,4 +1,8 @@
-# eulerr (development version)
+# eulerr 8.0
+
+## Bug fixes
+
+- note correct rustc requirement in DESCRIPTION ([`9b05074`](https://github.com/jolars/eulerr/commit/9b0507423c6088c1432390b9b44f448d52351a88))
 
 # eulerr 8.0
 
